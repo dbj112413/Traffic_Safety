@@ -1,0 +1,7 @@
+使用者手冊
+
+1. 執行 setup_env.py 檔案 
+2. 執行 test_rf.py 檔案
+3. 執行 test_bgm.py 檔案
+4. 執行 program_functions.py 檔案
+5. 執行 application.py 檔案
